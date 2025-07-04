@@ -63,6 +63,6 @@ Módulos y separación lógica de código
 ## 👨‍💻 Autor
 **David Suárez**
 [GithHub](https://github.com/scod01)
-[LinkedIn](www.linkedin.com/in/david.suarez.dev)
+[LinkedIn](www.linkedin.com/in/davidsuarez.dev)
 
 ¡Gracias por visitar este proyecto! Si te ha gustado, no olvides dejar una ⭐ en el repositorio.
