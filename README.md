@@ -30,19 +30,6 @@ Gracias por utilizar nuestro sistema de turnos.
 Su turno es:
 F-3
 Aguarde y será atendido.
----
-
-## 📁 Estructura del proyecto
-
-expendedor-turnos/
-├── principal.py # Lógica principal del menú
-├── numeros.py # Generadores y decorador
-├── portada.png # Imagen de presentación del proyecto
-└── README.md # Este archivo
-
-yaml
-Copiar
-Editar
 
 ---
 
